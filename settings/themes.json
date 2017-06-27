@@ -15,6 +15,17 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "CapRadio": {
+    "backgroundColor": "#eee",
+    "captionColor": "#8a7967",
+    "waveColor": "#b22217",
+    "backgroundImage": "CapRadioLogo.png",
+    "captionLeft": 460,
+    "captionRight": 1260,
+    "captionTop": 420,
+    "captionFont": "300 52px 'Source Sans Pro'",
+    "captionAlign": "left"
+  },
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
