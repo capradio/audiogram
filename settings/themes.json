@@ -15,6 +15,19 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "TVFH": {
+    "backgroundColor": "#eee",
+    "captionColor": "#8a7967",
+    "waveColor": "#b22217",
+    "backgroundImage": "tvfh_audiogram.png",
+    "captionLeft": 500,
+    "captionRight": 1260,
+    "captionTop": 420,
+    "captionFont": "300 52px 'Source Sans Pro'",
+    "captionAlign": "center",
+    "waveTop": 50,
+    "waveBottom": 400
+  },
   "CapRadio": {
     "backgroundColor": "#eee",
     "captionColor": "#8a7967",
